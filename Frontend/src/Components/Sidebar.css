@@ -1,0 +1,36 @@
+.logo{
+    margin-left: 5px;
+    margin-right: 20px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo i{
+    font-size: 30px;
+}
+.logo h2{
+    display: inline;
+    font-weight: normal;
+}
+.subhead{
+    letter-spacing: 1px;
+    font-weight: light;
+    color: lightslategray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+}
+.menu a{
+    margin-top: 15px;
+    margin-left: 60px;
+    text-decoration: none;
+    color: rgba(236, 240, 241,1.0);
+}
+.menu a h5{
+    font-weight: normal;
+}
